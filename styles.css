@@ -1,7 +1,7 @@
 /** Initialization **/
 @font-face {
   font-family: "bugaki";
-  src: url("Bugaki-Regular.woff") format("woff");
+  src: url("assets/font/Bugaki-Regular.woff") format("woff");
 }
 
 html,
