@@ -46,7 +46,7 @@ git clone https://github.com/darenhua/erhs-schedule
 
 ### Setup
 
-1. To setup your calender, inspect the principal's calender email using right click or ctrl+shift+i, and copy the whole calender HTML table.
+1. To set up your calender, inspect the principal's calender email using right click or ctrl+shift+i, and copy the whole calender HTML table.
 2. Convert the calender to JSON with https://www.convertjson.com/html-table-to-json.htm. Update calender.json to the your JSON.
 3. Update links.txt to your desired zoom links.
 4. Then, feel free to use the calender locally with live HTML server or host it from any hosting option.
